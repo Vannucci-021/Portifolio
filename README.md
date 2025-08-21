@@ -2,11 +2,11 @@ A minha escolha do template foi o número 2. Gostei do design do projeto e tema 
 
 # Portfólio Kevinn Vannucci
 
-Este é um projeto de portfólio pessoal, desenvolvido com foco em adaptabilidade para diferentes tamanhos de tela, proporcionando uma experiência otimizada para usuários em dispositivos variados.
+Meu portifólio criado com o protótipo disponibilizado pela DNC.
 
 ## 🌐 Link para o site
 
-Acesse o projeto: [Portfólio Kevinn Vannucci](https://portifolio-dnc-vitor.netlify.app/)
+Acesse o projeto: [Portfólio Kevinn Vannucci](https://portifolio-kevinn.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -16,14 +16,7 @@ Acesse o projeto: [Portfólio Kevinn Vannucci](https://portifolio-dnc-vitor.netl
 - CSS
 - Media Queries
 
-## 📐 Estilização e Responsividade
-
-O design responsivo foi implementado utilizando as seguintes estratégias:
-
-- Unidades de Medida Relativas: Uso de rem e % para garantir uma melhor adequação ao tamanho das telas
-- Media Queries: Adaptação para dispositivos com larguras de tela variando de 300px a 2560px
-
-## 📱 Testes de Compatibilidade
+## 📱 Responsivo para todo tipo de tela
 
 O site foi desenvolvido e testado para garantir uma experiência consistente em diferentes dispositivos como:
 
